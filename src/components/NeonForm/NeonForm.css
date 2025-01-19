@@ -1,0 +1,75 @@
+body {
+    background-color: #1a1a2e;
+    color: #fff;
+    font-family: "Arial", sans-serif;
+  }
+  
+  .neon-container {
+    max-width: 70vw;
+    margin: 40px auto;
+    padding: 20px;
+  }
+  
+  .neon-title {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #16db93;
+    text-shadow: 0 0 5px rgba(22, 219, 147, 0.5);
+    margin-bottom: 30px;
+  }
+  
+  .neon-form {
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(22, 219, 147, 0.2);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #16db93;
+  }
+  
+  input,
+  select {
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(22, 219, 147, 0.1);
+    border: 1px solid #16db93;
+    border-radius: 5px;
+    color: #77b861;
+    font-size: 1rem;
+  }
+  
+  input:focus,
+  select:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(22, 219, 147, 0.5);
+  }
+  
+  .neon-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #16db93;
+    border: none;
+    border-radius: 5px;
+    color: #1a1a2e;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .neon-button:hover {
+    background-color: #13c27f;
+    box-shadow: 0 0 10px rgba(22, 219, 147, 0.5);
+  }
+  
+  
