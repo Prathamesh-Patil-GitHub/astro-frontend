@@ -125,7 +125,7 @@ Veda-Go/
 
 ## 📽️ Demo  
 
-Check out our [Demo Video]([#](https://www.youtube.com/watch?v=CiRV85qDy7Y)) to see Veda-Go in action.  
+Check out our [Demo Video](https://www.youtube.com/watch?v=CiRV85qDy7Y) to see Veda-Go in action.  
 
 ---
 
