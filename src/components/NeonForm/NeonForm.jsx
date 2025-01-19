@@ -53,7 +53,7 @@ const NeonForm = () => {
 
   return (
     <div className="neon-container">
-      <h1 className="neon-title">Veda-Go</h1>
+      <h1 className="neon-title">Welcome to Veda-Go</h1>
       <form onSubmit={handleSubmit} className="neon-form">
         <div className="form-group">
           <label htmlFor="name">Name:</label>
